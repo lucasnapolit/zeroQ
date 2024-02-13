@@ -1,0 +1,22 @@
+{
+  "name": "zeroq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasnapolit/zeroQ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasnapolit/zeroQ/issues"
+  },
+  "homepage": "https://github.com/lucasnapolit/zeroQ#readme",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
